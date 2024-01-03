@@ -7,7 +7,7 @@ An enthusiastic and skilled AI and Robotics professional with a strong foundatio
 - **Nationality:** Yemeni
 - 🌍 **Location:** Currently studying in Milan, Italy; Work experience in Malaysia
 - 📫 **Contact:** [Email](mailto:saeedbenadeeb@gmail.com)
-- <p align="left"> <a href="https://www.linkedin.com/in/saeed-adeeb/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p> **LinkedIn:** [saeed-adeeb](https://www.linkedin.com/in/saeed-adeeb/)
+- <a href="https://www.linkedin.com/in/saeed-adeeb/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> **LinkedIn:** [saeed-adeeb](https://www.linkedin.com/in/saeed-adeeb/)
 - 💼 **Experience:** Specializing in AI, Robotics, Data Science, and Machine Learning
 - 🤝  I'm open to collaborating on interesting AI projects
 
