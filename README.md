@@ -27,7 +27,7 @@ An enthusiastic and skilled AI and Robotics professional with a strong foundatio
 ## Languages
 - **Arabic:** Mother tongue
 - **English:** Fluent
-
+- **German:** B1.1
 ---
 
 Looking forward to collaborating and connecting with like-minded professionals and enthusiasts in AI, Robotics, and Data Science. Feel free to reach out for collaborations or discussions!
