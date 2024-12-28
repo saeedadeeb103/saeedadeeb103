@@ -13,7 +13,7 @@ An enthusiastic and skilled AI and Robotics professional with a strong foundatio
 
 ## Education
 - **Bachelor of Engineering (Electrical-Mechatronics)**, Universiti Teknologi Malaysia
-- **Master's degree in Artificial Intelligence for Science and Technology**, Università degli Studi di Milano-Bicocca (Ongoing)
+- **AI & Robotics (M.Sc.)**, Technische Universität Nürnberg (Ongoing)
 
 
 ## Key Skills
