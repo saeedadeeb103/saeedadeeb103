@@ -1,7 +1,7 @@
 Hi 👋 My name is Saeed Al-Maqtari
 =================================
 
-An enthusiastic and skilled AI and Robotics professional with a strong foundation in electrical-mechatronics engineering and a passion for advancing human-focused AI technologies.
+An enthusiastic and skilled AI and Robotics Engineer with a strong foundation in electrical-mechatronics engineering and a passion for advancing human-focused AI technologies.
 
 ## About Me
 - **Nationality:** Yemeni
