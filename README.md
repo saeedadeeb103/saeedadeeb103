@@ -6,7 +6,6 @@ An enthusiastic and skilled AI and Robotics Engineer with a strong foundation in
 ## About Me
 - **Nationality:** Yemeni
 - 🌍 **Location:** Currently studying in Nuremberg, Germany
-- 📫 **Contact:** [Email](mailto:saeedbenadeeb@gmail.com)
 - <a href="https://www.linkedin.com/in/saeed-adeeb/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20" /> </picture> </a> **LinkedIn:** [saeed-adeeb](https://www.linkedin.com/in/saeed-adeeb/)
 - 💼 **Experience:** AI, Robotics, and Machine Learning
 - 🤝  I'm open to collaborating on interesting AI projects
